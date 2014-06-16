@@ -1,0 +1,4 @@
+<Addon Name="VikingWarriorResource" Version="" Author="" APIVersion="" Description="">
+    <Script Name="VikingWarriorResource.lua"/>
+    <Form Name="VikingWarriorResource.xml"/>
+</Addon>
